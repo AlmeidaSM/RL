@@ -1,29 +1,29 @@
-﻿Labels,Frequency,%Correct_Classifications
-Unknown (UNK),585,0.92
-Bare space (Bare),312,0.73
-Amphipod sp (Amphi),308,0.57
-Parasmittina alba (P_alb),299,0.90
-Botrylloides niger (B_nig),286,0.86
-Lithophyllum incrustans (L_inc),276,0.74
-Spirobranchus triqueter (S_tri),263,0.68
-Salmacina dysteri (S_dys),187,0.53
-Diplosoma listerianum (Dp_lis),158,0.61
-Biofilm (Biof),142,0.20
-Cradoscrupocellaria berthol... (C_bert),136,0.65
-Spirorbis_spp (Spir),115,0.43
-symplegma brakenhielmi (S_bra),108,0.48
-Crisia spp. (Crisi),73,0.33
-Schizoporella errata (S_err),70,0.84
-Perophora listeri (P_lis),62,0.53
-Distaplia corolla (D_cor),61,0.74
-Mycale (Carmia) senegalensis (M_sen),55,0.71
-Branchiomma bairdi (B_bai),34,0.53
-Bugula neritina (canopy) (B_ner),23,0.26
-Didemnum sp.1 black (D_sp1),18,0.33
-Polysiphonia sp. (Polys),16,0.13
-Sycon spp. (Sycon),14,0.29
-Kirchenpaueria halecioides (K_hal),8,0.00
-Celleporaria inaudita (C_ina),3,0.00
-Crisularia plumosa (C_plu),2,0.00
-Watersipora subtorquata (W_sub),1,0.00
-Prosuberites longispinus (P_long),1,1.00
+﻿Labels,Frequency of Occurrence,% of Correct Classifications
+Unknown (UNK),585,92
+Bare space (Bare),312,73
+Amphipod sp (Amphi),308,57
+Parasmittina alba (P_alb),299,90
+Botrylloides niger (B_nig),286,86
+Lithophyllum incrustans (L_inc),276,74
+Spirobranchus triqueter (S_tri),263,68
+Salmacina dysteri (S_dys),187,53
+Diplosoma listerianum (Dp_lis),158,61
+Biofilm (Biof),142,20
+Cradoscrupocellaria berthol... (C_bert),136,65
+Spirorbis_spp (Spir),115,43
+symplegma brakenhielmi (S_bra),108,48
+Crisia spp. (Crisi),73,33
+Schizoporella errata (S_err),70,84
+Perophora listeri (P_lis),62,53
+Distaplia corolla (D_cor),61,74
+Mycale (Carmia) senegalensis (M_sen),55,71
+Branchiomma bairdi (B_bai),34,53
+Bugula neritina (canopy) (B_ner),23,26
+Didemnum sp.1 black (D_sp1),18,33
+Polysiphonia sp. (Polys),16,13
+Sycon spp. (Sycon),14,29
+Kirchenpaueria halecioides (K_hal),8,0
+Celleporaria inaudita (C_ina),3,0
+Crisularia plumosa (C_plu),2,0
+Watersipora subtorquata (W_sub),1,0
+Prosuberites longispinus (P_long),1,100
