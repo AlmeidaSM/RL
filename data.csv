@@ -1,29 +1,29 @@
-﻿Name,Label,Freq,Prec,Satus
-Unknown (UNK),UNK,585,0.923076923,UNK
-Bare space (Bare),Bare,312,0.730769231,Bare
-Amphipod sp (Amphi),Amphi,308,0.568181818,Unresolved
-Parasmittina alba (P_alb),P_alb,299,0.89632107,NIS
-Botrylloides niger (B_nig),B_nig,286,0.863636364,NIS
-Lithophyllum incrustans (L_inc),L_inc,276,0.739130435,Native
-Spirobranchus triqueter (S_tri),S_tri,263,0.684410646,Native
-Salmacina dysteri (S_dys),S_dys,187,0.529411765,Native
-Diplosoma listerianum (Dp_lis),Dp_lis,158,0.607594937,Cryptogenic
-Biofilm (Biof),Biof,142,0.204225352,Unresolved
-Cradoscrupocellaria berthol... (C_bert),C_bert,136,0.647058824,Cryptogenic
-Spirorbis_spp (Spir),Spir,115,0.434782609,Unresolved
-symplegma brakenhielmi (S_bra),S_bra,108,0.481481481,Cryptogenic
-Crisia spp. (Crisi),Crisi,73,0.328767123,Unresolved
-Schizoporella errata (S_err),S_err,70,0.842857143,NIS
-Perophora listeri (P_lis),P_lis,62,0.532258065,Cryptogenic
-Distaplia corolla (D_cor),D_cor,61,0.737704918,NIS
-Mycale (Carmia) senegalensis (M_sen),M_sen,55,0.709090909,NIS
-Branchiomma bairdi (B_bai),B_bai,34,0.529411765,NIS
-Bugula neritina (canopy) (B_ner),B_ner,23,0.260869565,NIS
-Didemnum sp.1 black (D_sp1),D_sp1,18,0.333333333,Unresolved
-Polysiphonia sp. (Polys),Polys,16,0.125,Unresolved
-Sycon spp. (Sycon),Sycon,14,0.285714286,Unresolved
-Kirchenpaueria halecioides (K_hal),K_hal,8,0,Cryptogenic
-Celleporaria inaudita (C_ina),C_ina,3,0,NIS
-Crisularia plumosa (C_plu),C_plu,2,0,Cryptogenic
-Watersipora subtorquata (W_sub),W_sub,1,0,NIS
-Prosuberites longispinus (P_long),P_long,1,1,NIS
+Name,Label,Freq,Percent,Status,Markers
+Unknown (UNK),UNK,585,92.3076923,UNK,D
+Bare space (Bare),Bare,312,73.0769231,Bare,D
+Amphipod sp (Amphi),Amphi,308,56.8181818,Unresolved,x
+Parasmittina alba (P_alb),P_alb,299,89.632107,NIS,^
+Botrylloides niger (B_nig),B_nig,286,86.3636364,NIS,^
+Lithophyllum incrustans (L_inc),L_inc,276,73.9130435,Native,o
+Spirobranchus triqueter (S_tri),S_tri,263,68.4410646,Native,o
+Salmacina dysteri (S_dys),S_dys,187,52.9411765,Native,o
+Diplosoma listerianum (Dp_lis),Dp_lis,158,60.7594937,Cryptogenic,s
+Biofilm (Biof),Biof,142,20.4225352,Unresolved,x
+Cradoscrupocellaria berthol... (C_bert),C_bert,136,64.70588240000001,Cryptogenic,s
+Spirorbis_spp (Spir),Spir,115,43.478260899999995,Unresolved,x
+symplegma brakenhielmi (S_bra),S_bra,108,48.1481481,Cryptogenic,s
+Crisia spp. (Crisi),Crisi,73,32.8767123,Unresolved,x
+Schizoporella errata (S_err),S_err,70,84.28571430000001,NIS,^
+Perophora listeri (P_lis),P_lis,62,53.2258065,Cryptogenic,s
+Distaplia corolla (D_cor),D_cor,61,73.7704918,NIS,^
+Mycale (Carmia) senegalensis (M_sen),M_sen,55,70.90909090000001,NIS,^
+Branchiomma bairdi (B_bai),B_bai,34,52.9411765,NIS,^
+Bugula neritina (canopy) (B_ner),B_ner,23,26.086956500000003,NIS,^
+Didemnum sp.1 black (D_sp1),D_sp1,18,33.3333333,Unresolved,x
+Polysiphonia sp. (Polys),Polys,16,12.5,Unresolved,x
+Sycon spp. (Sycon),Sycon,14,28.571428599999997,Unresolved,x
+Kirchenpaueria halecioides (K_hal),K_hal,8,0.0,Cryptogenic,s
+Celleporaria inaudita (C_ina),C_ina,3,0.0,NIS,^
+Crisularia plumosa (C_plu),C_plu,2,0.0,Cryptogenic,s
+Watersipora subtorquata (W_sub),W_sub,1,0.0,NIS,^
+Prosuberites longispinus (P_long),P_long,1,100.0,NIS,^
